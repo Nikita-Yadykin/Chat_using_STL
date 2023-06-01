@@ -1,0 +1,6 @@
+D:\CPP Projects\Repositories\CPLUS_01_final_project\CPLUS_01_final_project\x64\Debug\CPLUS_01_final_project.exe
+C:\Users\fedor\source\repos\CPLUS_01_final_project\CPLUS_01_final_project\x64\Debug\CPLUS_01_final_project.exe
+C:\Users\fedor\source\repos\123\CPLUS_01_final_project\CPLUS_01_final_project\x64\Debug\CPLUS_01_final_project.exe
+D:\CPP Projects\Итоговый проект\CPLUS_01_final_project\x64\Debug\CPLUS_01_final_project.exe
+D:\CPP Projects\Algorithms_and_data_structures\Модуль 16. STL\Итоговое задание\Chat_using_STL\x64\Debug\Chat_using_STL.exe
+D:\CPP Projects\Repositories\Chat_using_STL\Chat_using_STL\x64\Debug\Chat_using_STL.exe

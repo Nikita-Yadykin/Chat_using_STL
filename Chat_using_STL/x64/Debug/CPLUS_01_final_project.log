@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (CPLUS_01_final_project.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ConsoleChat.cpp
+D:\CPP Projects\Repositories\Chat_using_STL\Chat_using_STL\ConsoleChat.cpp(134,65): warning C4267: аргумент: преобразование из "size_t" в "uint"; возможна потеря данных
+D:\CPP Projects\Repositories\Chat_using_STL\Chat_using_STL\ConsoleChat.cpp(202,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Message.cpp
+  sha1.cpp
+D:\CPP Projects\Repositories\Chat_using_STL\Chat_using_STL\sha1.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+  User.cpp
+  Создание кода...
+  CPLUS_01_final_project.vcxproj -> D:\CPP Projects\Repositories\Chat_using_STL\Chat_using_STL\x64\Debug\Chat_using_STL.exe
